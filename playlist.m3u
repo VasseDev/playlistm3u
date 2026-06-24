@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="RAI 1",RAI 1
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+
+#EXTINF:-1 tvg-name="Rai Sport 1",Rai Sport 1
+https://rai.zappr.stream/raisport1.m3u8
+
+#EXTINF:-1 tvg-name="Realtime",Realtime
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+
+#EXTINF:-1 tvg-name="TV8",TV8
+https://server.uvotv.zappr.stream:50351/269.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Tennis",Sky Sport Tennis
+https://popcdn.day/go.php?stream=SkySportTennisIT
+
+#EXTINF:-1 tvg-name="Sky Sport Uno",Sky Sport Uno
+https://popcdn.day/go.php?stream=SkySportUnoIT
+
+#EXTINF:-1 tvg-name="Sky Sport F1",Sky Sport F1
+https://popcdn.day/go.php?stream=SkySportF1Italia.php
